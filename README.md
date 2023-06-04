@@ -1,0 +1,2 @@
+# POO
+explicacion-poo-typescript
